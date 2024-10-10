@@ -1,6 +1,7 @@
 # File Hierarchy
 
 AppliedLinearStatMethodsHW1XiaoChen
+```
 │  main.pdf
 │
 │
@@ -11,6 +12,7 @@ AppliedLinearStatMethodsHW1XiaoChen
 │
 ├─datasets
        prostate.csv
+```
 
 # How To Run The Code?
 
